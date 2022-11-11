@@ -5,3 +5,9 @@ This project is supposed to be a exploit for the PS4 but as of right now this is
 the cause for this is due to me not knowing much info about how the PS4 link app works but hopefully in a few weeks (or months cuz fucking skewl mate)
 this should lead to a possible PS4 exploit
 
+
+Why is it called VakushiiVitaFT4?
+"Vakushii" is the pronunciation ヴァクシイ which mean Vaxii or Vaxi (I'm kinda forgetting at this point)
+Vita meaning the PS Vita as this exploit requires the PS Vita (cause reasons)
+and FT meaning File Transfer 
+and finally 4 being the PS4
