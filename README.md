@@ -11,3 +11,4 @@ Why is it called VakushiiVitaFT4?
 Vita meaning the PS Vita as this exploit requires the PS Vita (cause reasons)
 and FT meaning File Transfer 
 and finally 4 being the PS4
+![Untitled-2](https://user-images.githubusercontent.com/85033432/201446016-9b87ab94-49e2-4d5c-830c-40fff5b8dba2.png)
