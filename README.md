@@ -1,4 +1,4 @@
-# VakushiiVitaFT4
+# VakushiiVitaFT4 (Vakushii Was too long, it's now VitaFT4)
 Hi guys
 It's me Vaxii (first project, sorry for the shit intro)
 This project is supposed to be a exploit for the PS4 but as of right now this is currently a PS Vita PS4 link reverse engineering project,
